@@ -19,6 +19,11 @@
 
 # -- Project information -----------------------------------------------------
 
+
+import sphinx_rtd_theme
+html_theme = 'sphinx_rtd_theme'
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+
 project = 'python_setup_sample'
 copyright = '2018, allen'
 author = 'allen'
