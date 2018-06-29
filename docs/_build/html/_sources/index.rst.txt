@@ -9,7 +9,7 @@ Welcome to python_setup_sample's documentation!
 .. toctree::
    :maxdepth: 2
 
-   all_about_me
+   allaboutme
 
 
 
