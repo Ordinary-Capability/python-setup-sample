@@ -8,9 +8,9 @@ Welcome to python_setup_sample's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    all_about_me
+
 
 
 
